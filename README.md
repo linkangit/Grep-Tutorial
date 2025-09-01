@@ -1,4 +1,4 @@
-# Grep Tutorial for Beginner Bioinformaticians
+# Grep Tutorial for Bioinformaticians - Level 1
 
 Grep is one of the most powerful and essential command-line tools you'll use in bioinformatics. Think of it as a sophisticated "find" function that can search through files for specific patterns, whether you're looking for particular sequences, gene names, or quality scores.
 
